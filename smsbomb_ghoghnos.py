@@ -11,6 +11,7 @@ print(f'\033[31m')
 from time import sleep
 x = ("""
 
+
  GHOGHNOS_BLACK
                   SKRIPT : sms bomb GHOGGHNOS
                            TAQDIM BE DELBARAM 💜KOSAR💜
