@@ -1,2 +1,2 @@
 # smsbomb-ghoghnos
-smsbomb
+smsbomb-ghoghnos
